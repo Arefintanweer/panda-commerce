@@ -1,5 +1,7 @@
 {
   "editor.fontSize": 20,
   "editor.fontFamily": "hack",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay"
 }
